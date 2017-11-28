@@ -1,7 +1,7 @@
 {
-  "name": "bs4starter",
+  "name": "AdminDashboard",
   "version": "1.0.0",
-  "description": "Bootstrap 4 workflow",
+  "description": "Admin blogen",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
